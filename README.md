@@ -8,4 +8,4 @@ This repo include a simulation of the game with the concept of survival analysis
 
 Ready to play?
 
-For the explaination of the analysis, please see [my blog](https://mingjiezhao.github.io/2021-10-17-survival_analysis_squid_game/
+For the explaination of the analysis, please see [my blog](https://mingjiezhao.github.io/2021-10-17-survival_analysis_squid_game/)

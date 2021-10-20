@@ -1,4 +1,4 @@
-# Squid Game survival_analysis
+# Squid Game Survival Analysis
 
 Hello, Squid Game fans!
 
